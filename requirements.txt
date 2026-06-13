@@ -1,6 +1,6 @@
-# Streamlit app dependencies (read by Streamlit Community Cloud on deploy).
-# Minimal on purpose — the Streamlit page only needs the data + plotting stack.
 streamlit
+fastapi
+uvicorn
 pandas
 numpy
 matplotlib
