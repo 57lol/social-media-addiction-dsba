@@ -1,0 +1,8 @@
+# Streamlit app dependencies (read by Streamlit Community Cloud on deploy).
+# Minimal on purpose — the Streamlit page only needs the data + plotting stack.
+streamlit
+pandas
+numpy
+matplotlib
+seaborn==0.13.2
+scipy

@@ -1,0 +1,12 @@
+# Extra dependencies to run / edit the Jupyter notebook locally.
+# (The notebook ships already executed, so this is only needed to re-run it.)
+
+jupyterlab
+notebook
+nbformat
+nbconvert
+pandas>=2.2
+numpy>=1.26,<2.2
+matplotlib>=3.8
+seaborn==0.13.2
+scipy>=1.11

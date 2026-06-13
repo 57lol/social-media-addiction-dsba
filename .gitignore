@@ -1,0 +1,7 @@
+.venv/
+.venv_bot/
+__pycache__/
+*.pyc
+app/bot_token.txt
+.ipynb_checkpoints/
+.DS_Store
